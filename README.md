@@ -7,6 +7,7 @@ GANCEDO LAGUNES |
 OCHOA ACOSTA |
 CHICUELLAR SALINAS |
 RUIZ VELAZQUEZ |
-HERNANDEZ SERRANO| Limon Santos
+HERNANDEZ SERRANO| 
+LIMON SANTOS
 
 En este repositorio se subirán avances sobre el proyecto de ajedrez subiendo archivos, fotos, videos, código, bocetos, ideas principales al igual que las descartadas y como se llegó a realizar el proyecto desde el principio hasta el final
